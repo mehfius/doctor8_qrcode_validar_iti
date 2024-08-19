@@ -1,5 +1,5 @@
 {
-    "name": "gerarpdf",
+    "name": "qrcode_validar_iti",
     "version": "1.0.0",
     "description": "Google Cloud Function",
     "main": "index.js",
